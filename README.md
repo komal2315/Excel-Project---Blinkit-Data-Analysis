@@ -56,5 +56,10 @@ Data Cleaning & KPI Calculations
 
 Dashboard Design Principles
 
-https://github.com/komal2315/Excel-Project---Blinkit-Data-Analysis/blob/main/Blinkit%20Dashboard%20Image.jpeg
+📊 Dashboard Screenshot:
+
+Show what the dashboard looks like. -![Alt text](https://github.com/username/repo/assets/image/png)
+Example: ![Dashboard Preview]([https://github.com/komal2315/Power-BI---Shopify-Analysis/blob/main/Shopify%20Dashboard%20Image.png](https://github.com/komal2315/Excel-Project---Blinkit-Data-Analysis/blob/main/Blinkit%20Dashboard%20Image.jpeg))
+
+
 

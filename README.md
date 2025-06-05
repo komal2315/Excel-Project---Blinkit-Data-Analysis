@@ -56,3 +56,5 @@ Data Cleaning & KPI Calculations
 
 Dashboard Design Principles
 
+https://github.com/komal2315/Excel-Project---Blinkit-Data-Analysis/blob/main/Blinkit%20Dashboard%20Image.jpeg
+
